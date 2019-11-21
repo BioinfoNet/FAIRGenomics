@@ -12,10 +12,10 @@ The expected outcome of this project is growth in FAIR genomic data storage poli
 
 
 ## Who are we?
-
+A group of researchers, scientists, and students led by Caleb Kibet, interested in FAIR Genomics, and in ading value to data through reuse.
 
 ## How can you contribute?
-
+What are some of the soultions that you or your group have used to ensure proper storage and management of genomic data
 
 ## License
 
