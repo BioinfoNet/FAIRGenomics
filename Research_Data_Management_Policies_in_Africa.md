@@ -1,0 +1,6 @@
+Institution | Location| Policy Document | Policy Date | Notes
+---|---|---|---|---
+University of Pretoria | South Africa | [Research data management policy](https://www.up.ac.za/media/shared/12/ZP_Files/research-data-management-policy_august-2018.zp161094.pdf) | September 28, 2017 |
+Jomo Kenyatta University of Agriculture and Technology (JKUAT)  | Kenya  | [Open Research Data Policy](http://www.jkuat.ac.ke/directorates/iceod/wp-content/uploads/2017/06/JORD-Policy-ISO-ref-April-2016.pdf)  |  March 18, 2016 | Policy subject for review after three years
+International Livestock Research Institute (ILRI)  | Kenya   | [Research data management and sharing policy](https://cgspace.cgiar.org/bitstream/handle/10568/63496/ILRI_RDM_Policy_Mar15.pdf?sequence=4&isAllowed=y)  | March 9, 2015  |  
+ CGIAR Consortium  |  France | [CGIAR Open Access and Data Management Policy](http://www.icrisat.org/wp-content/uploads/CGIAR-Open-Access-and-Data-Management-Policy.pdf)  | October 2, 2013  | CGIAR centers in Africa: <ul><li>IITA, Nigeria</li><li> ILRI, Kenya</li><li>World Agroforestry Centre (ICRAF), Kenya </li><li> Africa Rice Center (WARDA), Côte d'Ivoire
